@@ -1,1 +1,1 @@
-insert into "employee"("emp_id","emp_name") values (24,'Bhaarath3');
+insert into employee (emp_name) values ('Kailash3');
